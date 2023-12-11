@@ -4,7 +4,7 @@ import { serviceData } from "../../Utilities/ServiceData";
 
 const ServicesPage = () => {
   return (
-    <div className=" bg-[#37517E] h-[100%] w-[100%] ">
+    <div className=" bg-[#fffff] h-[100%] w-[100%] ">
       <div className="pt-10 flex justify-center">
         <Typography
           className="uppercase font-semibold text-xl text-[#FE6DB8] "

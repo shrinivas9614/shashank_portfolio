@@ -4,7 +4,7 @@ import React from "react";
 const ContactPage = () => {
   return (
     <div>
-      <div className="bg-[#37517E] pt-10 flex justify-center">
+      <div className="bg-[#ffff] pt-10 flex justify-center">
         <Typography
           className="uppercase font-semibold text-xl text-[#FE6DB8] "
           sx={{
@@ -15,7 +15,7 @@ const ContactPage = () => {
           Contact me
         </Typography>
       </div>
-      <div className="grid grid-cols-1 bg-[#37517E] lg:grid-cols-2">
+      <div className="grid grid-cols-1 bg-[#fffff] lg:grid-cols-2">
         <div className="col-span-1">
           <div className="">
             <Typography
@@ -69,14 +69,14 @@ const ContactPage = () => {
                   <Grid item xs={12}>
                     <Button
                       sx={{
-                        bgColor: "[#fff]",
+                        bgColor: "#A6C7FA",
                         display: "inline-flex",
                         padding: " 0.75rem 1.1875rem 0.6875rem 1.125rem",
                         justifyContent: "center",
                         alignItems: "center",
                       }}
                       variant="outlined"
-                      color="primary"
+                    
                     >
                       Send Message
                     </Button>

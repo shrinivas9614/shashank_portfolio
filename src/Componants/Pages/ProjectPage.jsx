@@ -4,8 +4,8 @@ import { Typography } from "@mui/material";
 
 const ProjectPage = () => {
   return (
-    <div className="pt-5 px-9 bg-[#37517E]">
-       <div className="pt-10 flex justify-center">
+    <div className="pt-5 px-9 bg-[#fff]">
+      <div className="pt-10 flex justify-center">
         <Typography
           className="uppercase font-semibold text-xl text-[#FE6DB8] "
           sx={{

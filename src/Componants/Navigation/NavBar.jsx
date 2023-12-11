@@ -21,7 +21,7 @@ export default function Example() {
   return (
     <>
       <div className="min-h-full stickey">
-        <Disclosure as="nav" className="bg-white">
+        <Disclosure as="nav" className="bg69d]">
           {({ open }) => (
             <>
               <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
